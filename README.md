@@ -1,0 +1,1 @@
+This is the final project for STAT 151A at UC Berkeley, Fall 2023. The co-authors are Lingjie Chen and Yuyin Yang. The dataset comes from https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated/code.
